@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TelnetScripts", "TelnetScripts.pyproj", "{B9B01E85-7D4A-4E0C-93AF-BAB3BF158F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B01E85-7D4A-4E0C-93AF-BAB3BF158F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B01E85-7D4A-4E0C-93AF-BAB3BF158F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56B9AED2-6049-452A-869C-9984B231CCED}
+	EndGlobalSection
+EndGlobal
